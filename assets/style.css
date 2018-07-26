@@ -1,0 +1,96 @@
+
+/* backgrounds */
+.bg-blue {
+    background:#7fa4bb;
+    color: white;
+}
+.bg-gray{
+    background: #e2e3e5
+}
+.bg-white {
+    background: white;
+}
+.bg-dark {
+    background: slategray;
+    color: white;
+}
+
+/* margins */
+
+.m-t-2 {
+    margin-top: 2rem;    
+}
+.m-t-5 {
+    margin-top: 5rem;    
+}
+.m-t-9 {
+    margin-top: 9rem;
+}
+
+
+/* div styling */
+
+.tag {
+    font-family: 'lobster', cursive;
+    font-style: italic;
+}
+.btn-right {
+    width: 60vw;
+    margin-left: 6rem;
+    margin-bottom: 2rem;
+}
+/* .btn-rnd {
+    border-radius: 25%;
+    font-size: 0.8em;
+} */
+.small-font {
+    font-size: 0.8rem;
+}
+.image {
+    width: 50%;
+    margin-left: 25%;
+}
+.features {
+    height: 30%;
+    margin-top: 10%;
+    
+}
+.feature:hover {
+    background: white;
+}
+.read {
+    height: 40%;
+    margin-bottom: 17%;
+    margin-top: 14%;
+    padding: 3rem;
+}
+.jobs {
+    height: 40%;
+    margin-bottom: 17%;
+    margin-top: 71%;
+    padding: 3rem;
+}
+#angry {
+    height: 100%;
+    width: auto;
+    background-image: url("/assets/angry.jpg");
+    background-size: cover;  
+    background-repeat: no-repeat;  
+}
+.headline h1 {
+    margin-top: 10rem;
+    margin-left: 2rem;
+}
+.headline p {
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+    margin-left: 2rem;
+    width: 60%;
+}
+.contact {
+    padding-left: 5rem;
+    padding-top: 2rem;
+}
+.icons {
+    padding-top: 3rem;
+}
